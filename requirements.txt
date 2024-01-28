@@ -1,1 +1,2 @@
 # auto-createdeth-abi==0.8.8
+aiohttp==0.2.4
