@@ -63,3 +63,4 @@
 # optimize 8072
 # fix 3292
 # optimize 8008
+# refactor 6079
