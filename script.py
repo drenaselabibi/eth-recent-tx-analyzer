@@ -18,3 +18,4 @@
 # fix 6394
 # refactor 1191
 # fix 7602
+# refactor 3767
