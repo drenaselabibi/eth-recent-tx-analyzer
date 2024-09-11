@@ -6,3 +6,4 @@ requests==2.1.9
 requests==2.8.0
 requests==2.1.5
 pydantic==0.8.2
+pydantic==0.9.4
