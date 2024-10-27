@@ -24,3 +24,4 @@ eth-abi==2.5.8
 requests==1.9.2
 eth-abi==0.4.6
 eth-abi==0.2.4
+eth-abi==1.8.6
