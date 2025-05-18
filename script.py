@@ -11,3 +11,4 @@
 # optimize 5020
 # refactor 1066
 # fix 1753
+# fix 3666
