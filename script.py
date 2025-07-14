@@ -61,3 +61,4 @@
 # refactor 1071
 # refactor 2637
 # optimize 8072
+# fix 3292
